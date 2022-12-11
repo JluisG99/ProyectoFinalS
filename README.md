@@ -12,8 +12,8 @@ Para la realización de esta aplicacion se utilizó el lenguaje de programación
 En el archivo con extencion .py se encuentran los códigos para la corrección de los datos utilizados, como la selección de columnas, la eliminación de filas con valores nulos. Además, se cuenta con el código para la generación de la tabla, los gráficos y el mapa. Por lo tanto, el trabajo que aquí se presenta es totalmente reproducible.  
 ### Consideraciones adicionales y Créditos a la fuentes de informacion:
 
-Los datos que se utilicen en la aplicación deben seguir el estandar (Darwin Core (DwC).)[https://dwc.tdwg.org/terms/]
-Este tipo de archivos puede obtenerse en el portal de la Infraestructura Mundial de Información en Biodiversidad (GBIF.)[https://www.gbif.org/occurrence/search]
+Los datos que se utilicen en la aplicación deben seguir el estandar [Darwin Core (DwC).](https://dwc.tdwg.org/terms/)
+Este tipo de archivos puede obtenerse en el portal de la Infraestructura Mundial de Información en Biodiversidad [GBIF.](https://www.gbif.org/occurrence/search)
 
 ### Utilice la aplicacion haciendo click sobre "Aplicación Streamlit:
 [Aplicación Streamlit](https://jluisg99-proyectofinals-proyectofinal2-15of96.streamlit.app/)
