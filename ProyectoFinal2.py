@@ -28,10 +28,10 @@ st.set_page_config(layout='wide')
 #
 
 st.title('Visualización de datos de biodiversidad')
-st.markdown('Esta aplicación presenta visualizaciones tabulares, gráficas y geoespaciales de datos de biodiversidad que siguen el estándar [Darwin Core (DwC)](https://dwc.tdwg.org/terms/).')
-st.markdown('El usuario debe seleccionar un archivo CSV basado en el DwC y posteriormente elegir una de las especies con datos contenidos en el archivo. **El archivo debe estar separado por tabuladores**. Este tipo de archivos puede obtenerse, entre otras formas, en el portal de la [Infraestructura Mundial de Información en Biodiversidad (GBIF)](https://www.gbif.org/).')
-st.markdown('La aplicación muestra un conjunto de tablas, gráficos y mapas correspondientes a la distribución de la especie en el tiempo y en el espacio.')
-
+st.markdown('**Pasos para utilizar esta aplicación:**')
+st.markdown('**Paso 1.** Seleccione un archivo CSV que siga el estándar [Darwin Core (DwC)](https://dwc.tdwg.org/terms/).')
+st.markdown('**Paso 2.** Subir el archivo CSV basado en el DwC. El archivo debe estar separado por tabuladores. Obtenga su archivo CSV en [Infraestructura Mundial de Información en Biodiversidad (GBIF)](https://www.gbif.org/).')
+st.markdown('**Paso 3.** Navegue por la app, y analice los datos arrojados')
 
 #
 # ENTRADAS
