@@ -1,0 +1,51 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.22.7-Bia?owie?a">
+  <identifier>Cantones2014ctm05</identifier>
+  <parentidentifier></parentidentifier>
+  <language>SPA</language>
+  <type>dataset</type>
+  <title>Cantones2014ctm05</title>
+  <abstract>Mapa de la división político - administrativa de cantones en Costa Rica.
+
+</abstract>
+  <keywords vocabulary="Buscar claves">
+    <keyword>Cantones2014ctm05</keyword>
+  </keywords>
+  <contact>
+    <contactAddress>
+      <type>physical</type>
+      <address>Instituto Tecnológico de Costa Rica </address>
+      <city>Cartago </city>
+      <administrativearea>Cartago </administrativearea>
+      <postalcode>1597050</postalcode>
+      <country>CR</country>
+    </contactAddress>
+    <name>Edgar Ortíz Malavasi</name>
+    <organization>Instituto Tecnológico de Costa Rica Proyecto Atlas Digital </organization>
+    <position>Director  Proyecto Atlas Digital </position>
+    <voice></voice>
+    <fax></fax>
+    <email>eortiz@itcr.ac.cr </email>
+    <role></role>
+  </contact>
+  <links/>
+  <fees></fees>
+  <rights>Hojas a escala 1 : 200 000</rights>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys>
+      <wkt></wkt>
+      <proj4></proj4>
+      <srsid>0</srsid>
+      <srid>0</srid>
+      <authid></authid>
+      <description></description>
+      <projectionacronym></projectionacronym>
+      <ellipsoidacronym></ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial minz="0" maxx="-82.54474500000000603" maxz="0" miny="8.03799700000000072" maxy="11.2241029999999995" dimensions="2" crs="EPSG:4326" minx="-85.98152600000000234"/>
+  </extent>
+</qgis>
