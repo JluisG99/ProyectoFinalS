@@ -15,6 +15,6 @@ En el archivo con extencion .py se encuentran los códigos para la corrección d
 Los datos que se utilicen en la aplicación deben seguir el estandar [Darwin Core (DwC).](https://dwc.tdwg.org/terms/)
 Este tipo de archivos puede obtenerse en el portal de la Infraestructura Mundial de Información en Biodiversidad [GBIF.](https://www.gbif.org/occurrence/search)
 
-### Utilice la aplicacion haciendo click sobre "Aplicación Streamlit:
+### Utilice la aplicacion haciendo click sobre "Aplicación Streamlit":
 [Aplicación Streamlit](https://jluisg99-proyectofinals-proyectofinal2-15of96.streamlit.app/)
 
