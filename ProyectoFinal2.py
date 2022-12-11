@@ -1,13 +1,12 @@
 
 # Aplicación desarrollada con Streamlit para visualización de datos de biodiversidad
-
+# Carga de bibliotecas
 import streamlit as st
 
 import pandas as pd
-import pygeos
-import os
-os.environ["USE_PYGEOS"] = "0"
 import geopandas as gpd
+import pygeos
+gpd.options.use_pygeos = True
 
 import plotly.express as px
 
@@ -24,7 +23,7 @@ import math
 #
 st.set_page_config(layout='wide')
 
-
+#
 #
 # TÍTULO Y DESCRIPCIÓN DE LA APLICACIÓN
 #
