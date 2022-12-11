@@ -4,6 +4,8 @@
 import streamlit as st
 
 import pandas as pd
+import os
+os.environ["USE_PYGEOS"] = "0"
 import geopandas as gpd
 
 import plotly.express as px
