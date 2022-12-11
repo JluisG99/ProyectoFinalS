@@ -1,5 +1,5 @@
 
-# Aplicación desarrollada en Streamlit para visualización de datos de biodiversidad
+# Aplicación desarrollada con Streamlit para visualización de datos de biodiversidad
 
 import streamlit as st
 
@@ -15,7 +15,6 @@ from folium.plugins import HeatMap
 from streamlit_folium import folium_static
 
 import math
-import pygeos
 
 #
 # Configuración de la página
