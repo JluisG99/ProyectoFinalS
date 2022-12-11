@@ -15,7 +15,8 @@ from folium.plugins import HeatMap
 from streamlit_folium import folium_static
 
 import math
-
+import rtree
+import pygeos
 
 #
 # Configuración de la página
