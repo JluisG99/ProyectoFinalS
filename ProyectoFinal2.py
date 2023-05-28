@@ -44,7 +44,7 @@ datos_usuarios = st.sidebar.file_uploader('Seleccione un archivo CSV que siga el
 # Se continúa con el procesamiento solo si hay un archivo de datos cargado
 if datos_usuarios is not None:
     # Carga de registros de presencia en un dataframe con nombre de "registros"
-    registros = pd.read_csv(datos_usuarios, delimiter='\t')
+    registros = pd.read_csv(datos_usuarios, delimiter=',')
     # Conversión del dataframe de registros de presencia a geodataframe, identifica en código las columnas de las coordenadas
     registros = gpd.GeoDataFrame(registros, 
                                            geometry=gpd.points_from_xy(registros.decimalLongitude, 
