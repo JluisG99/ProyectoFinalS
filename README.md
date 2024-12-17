@@ -3,8 +3,7 @@
 # Proyecto Final: aplicación Streamlit para la visualización de datos de Biodiversidad.
 # Profesor: Manuel Vargas Del Valle
 # Estudiantes:
-# Jose Luis Gamboa Mora, B78769
-# Antony Cordero Zúñiga, B82335
+# Jose Luis Gamboa Mora
 
 ### Descripción:
 En el presente repositorio se encuentra una carpeta con los datos utilizados para  la elaboración de este informe, del mismo modo, se encuentra un archivo llamado ProyectoFinal2.py, el cual es un documento creado en el programa **VisualStudio** y contiene el código en python para la generación de los productos que ofrece la aplicación publicada en Streamlit Cloud.
